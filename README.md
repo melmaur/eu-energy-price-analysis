@@ -1,4 +1,3 @@
-# eu-energy-price-analysis
 
 # EU Electricity Price Analysis
 
